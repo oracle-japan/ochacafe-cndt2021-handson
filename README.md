@@ -1,6 +1,6 @@
 # CloudNative Days Tokyo 2021 Co-located Event Handson 概要
 
-この度は、OCHa Cafe Presents★Kubernetes & オブザーバビリティ 入門ハンズオンへのご参加、誠にありがとうございます。
+この度は、『OCHa Cafe Presents★Kubernetes & オブザーバビリティ 入門ハンズオン』へのご参加、誠にありがとうございます。
 
 タイムテーブル、資料などは、以下となります。
 
@@ -11,9 +11,9 @@
 | 時間 | 概要 |
 | --- | --- |
 | 13:50  | Zoom接続開始 |
-| 14:05  | Opneing |
+| 14:00  | Opneing |
 | 14:05  | Oracle Container Engine for Kubernetes(OKE)の紹介 |
-| 14:15  | Observabilityについて（ハンズオン概要含む）|
+| 14:20  | Observabilityについて（ハンズオン概要含む）|
 | 14:50  | 休憩 |
 | 15:00  | ハンズオン |
 | 17:20  | Q&A |
